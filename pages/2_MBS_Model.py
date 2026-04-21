@@ -732,6 +732,6 @@ with st.expander("📚 Methodology — PSA Prepayment Model"):
 st.markdown("""
 <div class="footer">
     <span>Fixed Income Analytics Suite · Tool 2: Agency MBS Cash Flow & Prepayment Model</span>
-    <span>Your Name · your.email@example.com</span>
+    <span>Prakash Balasubramanian · prakash.bala.work@gmail.com</span>
 </div>
 """, unsafe_allow_html=True)
