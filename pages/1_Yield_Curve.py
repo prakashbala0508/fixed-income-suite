@@ -822,6 +822,6 @@ with st.expander("📚 Methodology — How This Tool Works"):
 st.markdown("""
 <div class="footer">
     <span>Fixed Income Analytics Suite · Tool 1: Yield Curve & Bond Risk Engine</span>
-    <span>Your Name · your.email@example.com</span>
+    <span>Prakash Balasubramanian · prakash.bala.work@gmail.com</span>
 </div>
 """, unsafe_allow_html=True)
