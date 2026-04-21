@@ -1041,6 +1041,6 @@ with st.expander("📚 Methodology — ALM NII Model"):
 st.markdown("""
 <div class="footer">
     <span>Fixed Income Analytics Suite · Tool 3: ALM NII Forecasting & Balance Sheet Stress</span>
-    <span>Your Name · your.email@example.com</span>
+    <span>Prakash Balasubramanian · prakash.bala.work@gmail.com</span>
 </div>
 """, unsafe_allow_html=True)
