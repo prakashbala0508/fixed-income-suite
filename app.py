@@ -153,7 +153,7 @@ with col_a:
 
 with col_b:
     st.markdown("**Source Code**")
-    st.markdown("[GitHub Repository](#) *(link placeholder)*")
+    st.markdown("[GitHub Repository](#) *(https://github.com/prakashbala0508)*")
 
 # ── Footer ───────────────────────────────────────────────────────────────────
 st.markdown("""
