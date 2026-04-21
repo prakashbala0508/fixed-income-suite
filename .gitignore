@@ -1,0 +1,15 @@
+# Never upload API keys or secrets
+.streamlit/secrets.toml
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
